@@ -6,3 +6,4 @@ The word _"Chibi"_ is a Japanese slang term referring to someone or something sh
 ## Tech Stack
 - Go
 - Redis
+- HTMX
